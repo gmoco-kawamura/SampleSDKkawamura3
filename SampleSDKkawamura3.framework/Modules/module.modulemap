@@ -1,0 +1,6 @@
+framework module SampleSDKkawamura3 {
+  umbrella header "SampleSDKkawamura3.h"
+  export *
+
+  module * { export * }
+}
